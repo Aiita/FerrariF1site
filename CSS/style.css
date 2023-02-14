@@ -22,15 +22,3 @@ h1, h2, h3{
 a{
 	text-decoration: none;
 }
-
-@media (max-width: 940px) {
-	.container {
-		width: 600px;
-	}
-}
-
-@media (max-width: 550px) {
-	.container {
-		width: 400px;
-	}
-}
