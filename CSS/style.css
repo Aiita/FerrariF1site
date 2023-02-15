@@ -1,11 +1,16 @@
 @import url("components/container.css");
 @import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,700&family=Playfair+Display:ital@0;1&family=Roboto:ital,wght@0,400;0,900;1,500;1,900&display=swap");
 @import url('components/avatar.css');
-@import url('components/btn_blue.css');
+@import url('components/btn_red.css');
 @import url('components/banner.css');
 @import url('components/card.css');
 @import url('components/site_back.css');
 @import url('components/cards.css');
+@import url('components/title_center.css');
+@import url('components/blur_bot.css');
+@import url('components/top_banner.css');
+
+
 
 
 body {
@@ -17,6 +22,7 @@ body {
 h1, h2, h3{
 	font-family: "Roboto", sans-serif;
 	font-weight: bold;	
+	color: white;
 }
 
 a{
