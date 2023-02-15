@@ -1,0 +1,5 @@
+.overlay {
+        z-index: 9;
+        margin: 15px 1050px;
+        position: absolute;
+      }

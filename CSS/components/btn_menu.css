@@ -1,0 +1,10 @@
+.btn_menu{
+	background-image: url(../../images/buton_menu.jpg);
+	background-size: cover;
+	background-position: center;
+    padding-top: 50px;
+    padding-bottom: 22px;
+    padding-right: 26px;
+    padding-left: 26px;
+    display: flex;		
+}
